@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi Im 😎 Eldi</h1>
-<h3 align="center">I'm a 📰 Web Developer and founder of [Pyrite Bot](https://github.com/pyritebot)</h3>
+<h3 align="center">I'm a 📰 Web Developer and founder of Pyrite Bot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldimindcrafter123&label=Profile%20views&color=0e75b6&style=flat" alt="eldimindcrafter123" /> </p>
 
